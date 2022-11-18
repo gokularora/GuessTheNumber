@@ -34,7 +34,7 @@ function StartGameScreen({ onPickNumber }) {
         "Number has to be a number between 1 and 99",
         [
           {
-            text: "Okay",
+            text: "Ok",
             style: "destructive",
             onPress: resetInputHandler,
           },
